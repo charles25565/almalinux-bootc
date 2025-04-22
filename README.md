@@ -1,16 +1,13 @@
 # Better AlmaLinux bootc images
 
-<!-- [![CI/CD](https://github.com/charles25565/rocky-bootc/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/charles25565/rocky-bootc/actions/workflows/ci-cd.yml) -->
-
-**These are currently unofficial.**
-
-<!-- [You can check the forum thread if you'd like](https://forums.rockylinux.org/t/made-a-nother-bootc-image-for-rocky-9/17140). -->
+> [!NOTE]
+> These are currently unofficial.
 
 Basically the official AlmaLinux bootc images are outdated and use insecure features of buildah/podman, this repo doesn't have those issues.
 
 ## Using
 
-Use the container URL: [`ghcr.io/charles25565/rocky-bootc`](https://ghcr.io/charles25565/rocky-bootc)
+Use the container URL: [`ghcr.io/charles25565/almalinux-bootc`](https://ghcr.io/charles25565/almalinux-bootc)
 
 ## Building
 
