@@ -1,6 +1,6 @@
 # Better AlmaLinux bootc images
 
-[![CI/CD](https://github.com/charles25565/almalinux-bootc/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/charles25565/almalinux-bootc/actions/workflows/ci-cd.yml)
+[![CI/CD](https://github.com/charles25565/almalinux-bootc/actions/workflows/ci-cd.yml/badge.svg?branch=a10s)](https://github.com/charles25565/almalinux-bootc/actions/workflows/ci-cd.yml)
 
 > [!NOTE]
 > These are currently unofficial.
